@@ -1,5 +1,4 @@
 import time
-
 import Car
 import LicensePlateRecognition
 import ParkingLot
